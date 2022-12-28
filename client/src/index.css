@@ -1,4 +1,7 @@
-body {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* body {
   background: beige;
 }
 .container {
@@ -11,4 +14,4 @@ body {
   background-color: #fff;
   border-radius: 10px;
   box-shadow: -9px 17px 13px rgb(0 0 0 / 16%);
-}
+} */
